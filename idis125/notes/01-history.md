@@ -25,5 +25,44 @@ Andreas Vesalius (1550 A.D.)
 - big advance in accuracy
 
 Cell Theory
-===========
+===
+
+Neuron Theory
+===
+
+Hodgkin and Huxley (1930s-1950s)
+---
+- The electrical basis of neuronal signaling
+- A.L. Hodgkin
+- A.F. Huxley
+
+Watson and Crick (1953)
+---
+- The structure of DNA
+
+Hubel and Wiesel (1950s-1970s)
+---
+- Signal processing in the visual system
+
+Neuroscience is Interdisciplinary
+---
+- Biology
+  - Cellular/Molecular
+  - Developmental
+  - Systems (anatomy and physiology)
+  - Behavioral
+- Psychology
+  - Behavioral
+  - Cognitive
+- Chemistry
+- Medicine
+  - Neurology
+  - Psychiatry
+- Philosophy
+- Physics
+
+Ways of Knowing in Neuroscience
+---
+- Experimental Approaches
+- Correlational Studies
 
