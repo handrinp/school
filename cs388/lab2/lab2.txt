@@ -1,18 +1,14 @@
-1
----
+1)
 :!who
 
-2
----
+2)
 G
 
-3
----
+3)
 14G
 :20,50 w tmpAmendmt
 
-4
----
+4)
 5yy
 :bn
 P
@@ -23,27 +19,25 @@ vim billofrights tmpAmendmt
 :bn
 Gp
 
-5
----
+5)
 4J
 
-6
----
+6)
 6G
 ma
 28G
 7dd
 'aP
 
-7
----
+7)
+M3ddGp
 
-8
----
+8)
+:1,26 w abbrevBoR
 
-9
----
+9)
+^v$U
 
-10
----
+10)
+ggvGU
 

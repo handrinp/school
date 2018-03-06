@@ -1,0 +1,30 @@
+1.
+find . -type f -name *.c -o -name *.cc
+
+2.
+find . -type d -perm 700
+
+3.
+find . -type f -name *.c -o -name *.cc -exec chmod 644 {} \;
+
+4.
+find . -type f -atime +3
+
+5.
+find . -type f -atime +30 -exec chmod 700 {} \;
+
+6.
+find . -type f -mtime -1 -exec mv {} ./recent_dir \;
+
+7.
+find /bin /usr/bin -type d -name z*
+
+8.
+find . -type f -size +100b -ok rm {} \;
+
+9.
+find . -type f -perm 700 -exec ls -l {} \;
+
+10.
+find . -type f -atime +3 -exec mv {} old \;
+
